@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2023-10-24
 type: landing
 
 sections:
@@ -73,9 +73,9 @@ sections:
               Responsibilities include:
 
               * Analysing
-              * Modelling
+              * Modelling and testing
               * Deploying
-        - title: Professor of Semiconductor Physics
+        - title: Assistant Professor of Marketing Analytics
           company: University X
           company_url: ''
           company_logo: org-x
