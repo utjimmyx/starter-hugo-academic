@@ -105,7 +105,7 @@ sections:
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Data Science Specialization, Johns Hopkins University (2019)
+          title: Data Science Specialization, Johns Hopkins University (2020)
           url: 'https://www.linkedin.com/in/zhenning-jjimmy-xu/overlay/1576214089087/single-media-viewer/?profileId=ACoAAAYWEHUBnWS4h2j5DLK_hgcvlyg79RRSFwY'
     design:
       columns: '2'
