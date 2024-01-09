@@ -1,5 +1,5 @@
 ---
-title: Display Jupyter Notebooks with Academic
+title: Display Jupyter Notebooks with Academic 2024
 subtitle: Learn how to blog in Academic using Jupyter notebooks
 summary: Learn how to blog in Academic using Jupyter notebooks
 authors:
