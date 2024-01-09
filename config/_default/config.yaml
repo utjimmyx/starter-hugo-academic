@@ -29,6 +29,10 @@ module:
 ## ADVANCED
 ############################
 
+[security]
+  [security.funcs]
+    getenv = ['^HUGO_', '^CI$', 'WC_POST_CSS']
+
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
