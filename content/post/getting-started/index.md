@@ -5,22 +5,7 @@ description: |
 author:
   - name: Zhenning "Jimmy" Xu
 date: 2022-03-13
-output:
-  distill::distill_article:
-    self_contained: false
----
 
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
-Distill is a publication format for scientific and technical writing, native to the web.
-
-Learn more about using Distill at <https://rstudio.github.io/distill>.
-
-
-???
 
 Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sharingan_triple.svg)
 
