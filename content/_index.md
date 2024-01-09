@@ -67,14 +67,15 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: California
-          date_start: '2021-01-01'
+          date_start: '2019-09-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling and testing
-              * Deploying
+              * Marketing Analytics
+              * Digital Marketing
+              * R Programming
+              * Tableau Dashboard Design
         - title: Assistant Professor of Marketing Analytics
           company: University X
           company_url: ''
